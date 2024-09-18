@@ -24,7 +24,7 @@ const App = () => {
           maxHeight : "200px"
         }}
       />
-      <p style={{fontSize : "2.5rem", fontWeight : 600, textAlign : "center"}}>Website is Under maintenance.</p>
+      <p ={{fontSize : "2.5rem", fontWeight : 600, textAlign : "center"}}>Website is Under maintenance.</p>
       <LuLoader
         className='animte-spin'
         style={{
